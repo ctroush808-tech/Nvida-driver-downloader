@@ -1,1 +1,1 @@
-This uses https://gfwsl.geforce.com/ and uses Nvidias api calls to grabe the lattests driver for the 4070 super. Nvidia uses the same game ready driver for all newer GPUs.
+This uses https://gfwsl.geforce.com/ and uses Nvidias api calls to grabe the lattests driver for the 4070 super. Nvidia uses the same game ready driver for all newer GPUs. Created with the help of ChatGPT
